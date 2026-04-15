@@ -2,8 +2,6 @@
 
 This directory contains a BBGKY-based hierarchy propagator for a 1D spin-boson model.
 
-The current setup is restricted to the spin-boson case. The pyrazine model has been removed from the source tree because this implementation is more reliable for the 1D spin-boson problem.
-
 ## Files
 
 - `BBGKY.py`: core hierarchy builder, filtering utilities, and time propagator.
